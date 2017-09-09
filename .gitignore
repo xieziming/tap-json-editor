@@ -1,0 +1,6 @@
+npm-debug.*
+node_modules
+.idea
+dist
+build
+typings
